@@ -1,0 +1,14 @@
+
+
+input[type="text"], [type="email"],[type="password"] {
+    display: block;
+    margin: 15px auto;
+    width: 275px;
+    height: 35px;
+    background-color: #101010;
+    border: none;
+    border-bottom: 1px solid #484847;
+    text-indent: 18px;
+    color: #fff;
+}
+
